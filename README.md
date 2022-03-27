@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning
+- JavaScript
+- Java
+- Flutter
 
 
 
 ### Blog
-[个人笔记博客](https://itxve.cn)
+[个人笔记博客（买不起域名）](https://itxve.cn)
