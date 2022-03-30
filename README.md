@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 
 ### Blog
-[个人笔记博客（买不起域名）](https://itxve.cn)
+[遗忘的笔记博客](https://blog-topaz-seven.vercel.app/)
