@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 一个非科班的程序员
 - 🌱 I’m currently learning
 - JavaScript
 - TypeScript
