@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - JavaScript
 - TypeScript
 - Java
-- Rust
+- Rust (坚持不下去了)
+- Python3
 
 
 
